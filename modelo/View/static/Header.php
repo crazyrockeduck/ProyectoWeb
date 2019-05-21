@@ -48,7 +48,7 @@
         <a class="nav-link" href="<?=$GLOBALS['COD']->dir?>/home">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="<?=$GLOBALS['COD']->dir?>/contacto">Contacto <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="the-best-anime.herokuapp.com/contacto">Contacto <span class="sr-only">(current)</span></a>
       </li>
     </ul>
   </div>
